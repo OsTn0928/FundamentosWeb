@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#Part_1 {
+    text-align: left;
+    color:white;
+    margin: 15px;
+    padding: 10px;
+    background-color: black;
+    font-size: 50px;
+    font-family: cursive;
+    padding-left: 20px;
+}
+h1 span {
+    color: aqua;
+}
+#Part_2 {
+    background-color: #67329a;
+    margin: 15px;
+    padding: 8px;
+    color: aliceblue;
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+    font-weight:100;
+}
+
+#Part_3 {
+    background-color: #a0c3f9;
+    margin: 15px;
+    text-align:right;
+    color: #111750;
+    font-size: 25px;
+    text-decoration: underline;
+    padding: 8px;
+
+}
